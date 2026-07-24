@@ -26,7 +26,6 @@ SELECT
 FROM zaio_students
 GROUP BY bootcamp_track
 ORDER BY total_students DESC;
---drop table if exists zaio_students;
 
 --Task 5: GitHub Submission
 
